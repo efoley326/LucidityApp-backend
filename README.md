@@ -5,10 +5,10 @@ This project was generated from the Momentum Django project template. This templ
 - [django-extensions](https://django-extensions.readthedocs.io/en/latest/) and [django-debug-toolbar](https://django-debug-toolbar.readthedocs.io/en/latest/) are both installed and set up.
 - [django-environ](https://django-environ.readthedocs.io/en/latest/) is set up and the `DEBUG`, `SECRET_KEY`, and `DATABASES` settings are set by this package.
 - A starting Django app named `core` is provided.
-- There is a custom user model defined in `core.models.User`.
-- There is a `templates/` and a `static/` directory at the top level, both of which are set up to be used.
+- A custom user model defined in `core.models.User`.
+- Both a `templates/` and a `static/` directory at the top level.
 - A `.gitignore` file is provided.
-- [Pipenv](https://pipenv.pypa.io/en/latest/) is used to manage dependencies.
+- [Pipenv](https://pipenv.pypa.io/en/latest/) has been used to manage dependencies.
 
 ## Using this template
 
